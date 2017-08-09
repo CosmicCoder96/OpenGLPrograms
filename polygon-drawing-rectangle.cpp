@@ -23,8 +23,8 @@ glBegin(GL_POLYGON);
 // co-ordinates of all four vertices of the
 //rectangle
 glVertex3f(100.0f, 100.0f, 0.0f);
-glVertex3f(200.0f, 100.0f, 0.0f);
-glVertex3f(200.0f, 150.0f, 0.0f);
+glVertex3f(180.0f, 100.0f, 0.0f);
+glVertex3f(180.0f, 150.0f, 0.0f);
 glVertex3f(100.0f, 150.0f, 0.0f);
 glEnd();
 glFlush();
